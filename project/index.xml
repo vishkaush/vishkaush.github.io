@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/project/</link>
+      <atom:link href="https://vishkaush.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Wed, 07 Aug 2019 23:45:08 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>Projects</title>
+      <link>https://vishkaush.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Post Mortem Video Search Tool</title>
+      <link>https://vishkaush.github.io/project/postmortem/</link>
+      <pubDate>Wed, 07 Aug 2019 23:45:08 +0530</pubDate>
+      <guid>https://vishkaush.github.io/project/postmortem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Video Analytics</title>
+      <link>https://vishkaush.github.io/project/realtime/</link>
+      <pubDate>Wed, 07 Aug 2019 23:45:08 +0530</pubDate>
+      <guid>https://vishkaush.github.io/project/realtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Recognition</title>
+      <link>https://vishkaush.github.io/project/face-rec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/project/face-rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

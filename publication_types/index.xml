@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/publication_types/</link>
+      <atom:link href="https://vishkaush.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>Publication_types</title>
+      <link>https://vishkaush.github.io/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>1</title>
+      <link>https://vishkaush.github.io/publication_types/1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://vishkaush.github.io/publication_types/2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/tags/technology/</link>
+      <atom:link href="https://vishkaush.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>technology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Wed, 27 Feb 2019 16:03:01 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>technology</title>
+      <link>https://vishkaush.github.io/tags/technology/</link>
+    </image>
+    
+    <item>
+      <title>Our projects covered in News18 show &#39;Bharat Ki Baat&#39;</title>
+      <link>https://vishkaush.github.io/post/bharat-ki-baat/</link>
+      <pubDate>Wed, 27 Feb 2019 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/bharat-ki-baat/</guid>
+      <description>&lt;p&gt;Happy to share that our work got some coverage in an episode of &amp;ldquo;Bharat Ki Baat&amp;rdquo; on the theme &lt;strong&gt;Digital India &amp;amp; IT&lt;/strong&gt;. Seen in the video is my PhD advisor &lt;strong&gt;&lt;a href=&#34;https://www.cse.iitb.ac.in/~ganesh/&#34; target=&#34;_blank&#34;&gt;Prof. Ganesh Ramakrishnan&lt;/a&gt;&lt;/strong&gt; talking about the need of using AI/ML to enhance the country&amp;rsquo;s security and the possibilities therein. Some glimpses of the demonstration of our product prototypes that we have developed can also be seen in the video. If you are running short of time, you may directly jump to 19:18 :)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Mp2LONxUPbA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;bharat.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU vs CPU - Demonstrated!</title>
+      <link>https://vishkaush.github.io/post/gpu/</link>
+      <pubDate>Thu, 10 Aug 2017 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/gpu/</guid>
+      <description>&lt;p&gt;Everybody has heard of CPUs - the Central Processing Units - which make the &amp;ldquo;brain&amp;rdquo; of every computer. GPUs - Graphics Processing Units - are lesser heard of unless you are into gaming or are int machine learning. The highly parallel structure of GPUs make them more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel. Here is a brilliant demonstration of the same.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-P28LKWTzrI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A gentle introduction to Machine Learning</title>
+      <link>https://vishkaush.github.io/post/ml-intro/</link>
+      <pubDate>Fri, 17 Feb 2017 14:53:39 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/ml-intro/</guid>
+      <description>&lt;p&gt;One of the better introductions to Machine Learning I have come across till now. It is at a very high level, I must admit, but the non-mathematical intuition behind the most basic and fundamental algorithms of Machine Learning has been very nicely covered with appropriate examples. Good job, &lt;a href=&#34;https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ&#34; target=&#34;_blank&#34;&gt;Luis Serrano.&lt;/a&gt; Do check out!&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/IpGxLWOIZy4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>nVidia GTCx India 2016</title>
+      <link>https://vishkaush.github.io/post/nvidia-workshop/</link>
+      <pubDate>Thu, 15 Dec 2016 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/nvidia-workshop/</guid>
+      <description>&lt;p&gt;Attended GTCx India 2016 organized by nVidia on December 6th at Renaissance Convention Centre, Powai, Mumbai. Checkout the keynote sessions &lt;a href=&#34;https://www.youtube.com/watch?v=VLufuchl3Bg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;nvidia1.jpg&#34; alt=&#34;one&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;nvidia2.jpg&#34; alt=&#34;two&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer School on Deep Learning for Computer Vision</title>
+      <link>https://vishkaush.github.io/post/ssdlcv/</link>
+      <pubDate>Tue, 12 Jul 2016 18:03:15 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/ssdlcv/</guid>
+      <description>&lt;p&gt;I am currently in Hyderabad attending a 6-day &lt;a href=&#34;http://cvit.iiit.ac.in/summerschool/&#34; target=&#34;_blank&#34;&gt;summer school on deep learning for computer vision&lt;/a&gt; organized by Center for Visual Information Technology, IIIT Hyderabad. Couldn&amp;rsquo;t have asked for a better start to my PhD - with renowned speakers presenting the state-of-the-art in this space and with lots of hand on lab sessions. If you are interested in deep learning in general and in deep learning for computer vision in particular, do checkout this &lt;a href=&#34;http://cvit.iiit.ac.in/summerschool/resources.html&#34; target=&#34;_blank&#34;&gt;wonderful compilation of available resources&lt;/a&gt;. It is quite comprehensive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualization of a Turing Machine</title>
+      <link>https://vishkaush.github.io/post/turing-machine-visualization/</link>
+      <pubDate>Tue, 20 Oct 2015 17:37:11 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/turing-machine-visualization/</guid>
+      <description>&lt;p&gt;Came across this brilliant realization of a Turing Machine - watch the video below. If you are scratching your heads, &lt;em&gt;Turing Machine&lt;/em&gt; is a classic model embodying the very nature of computation. According to wikipedia, &amp;ldquo;A Turing machine is a hypothetical device that manipulates symbols on a strip of tape according to a table of rules. Despite its simplicity, a Turing machine can be adapted to simulate the logic of any computer algorithm, and is particularly useful in explaining the functions of a CPU inside a computer. The &amp;ldquo;Turing&amp;rdquo; machine was invented in 1936 by Alan Turing[1] who called it an &amp;ldquo;a-machine&amp;rdquo; (automatic machine). The Turing machine is not intended as practical computing technology, but rather as a hypothetical device representing a computing machine. Turing machines help computer scientists understand the limits of mechanical computation.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;And now, what you have been waiting for, the video:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/E3keLeMwfHY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

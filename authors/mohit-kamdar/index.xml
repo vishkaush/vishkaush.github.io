@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohit Kamdar | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/authors/mohit-kamdar/</link>
+      <atom:link href="https://vishkaush.github.io/authors/mohit-kamdar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohit Kamdar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>Mohit Kamdar</title>
+      <link>https://vishkaush.github.io/authors/mohit-kamdar/</link>
+    </image>
+    
+    <item>
+      <title>A Particle Swarm Optimization Based Approach for Finding Similar Users on Facebook.</title>
+      <link>https://vishkaush.github.io/publication/kabara-2016-particle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kabara-2016-particle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

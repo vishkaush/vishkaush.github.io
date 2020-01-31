@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/tags/</link>
+      <atom:link href="https://vishkaush.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Wed, 01 Jan 2020 16:03:01 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>Tags</title>
+      <link>https://vishkaush.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>motivational-talks</title>
+      <link>https://vishkaush.github.io/tags/motivational-talks/</link>
+      <pubDate>Wed, 01 Jan 2020 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/motivational-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://vishkaush.github.io/tags/philosophy/</link>
+      <pubDate>Mon, 16 Sep 2019 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://vishkaush.github.io/tags/technology/</link>
+      <pubDate>Wed, 27 Feb 2019 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://vishkaush.github.io/tags/events/</link>
+      <pubDate>Wed, 21 Nov 2018 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientific-spirituality</title>
+      <link>https://vishkaush.github.io/tags/scientific-spirituality/</link>
+      <pubDate>Sun, 16 Sep 2018 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/scientific-spirituality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helpful-tips</title>
+      <link>https://vishkaush.github.io/tags/helpful-tips/</link>
+      <pubDate>Thu, 24 Aug 2017 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/helpful-tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humour</title>
+      <link>https://vishkaush.github.io/tags/humour/</link>
+      <pubDate>Fri, 01 Jul 2016 17:57:32 +0530</pubDate>
+      <guid>https://vishkaush.github.io/tags/humour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

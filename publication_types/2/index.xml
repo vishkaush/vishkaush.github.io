@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/publication_types/2/</link>
+      <atom:link href="https://vishkaush.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>2</title>
+      <link>https://vishkaush.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Emerging trends in personality identification using online social networks—a literature survey</title>
+      <link>https://vishkaush.github.io/publication/kaushal-2018-emerging/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kaushal-2018-emerging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vis-DSS: An Open-Source toolkit for Visual Data Selection and Summarization</title>
+      <link>https://vishkaush.github.io/publication/iyer-2018-vis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/iyer-2018-vis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Particle Swarm Optimization Based Approach for Finding Similar Users on Facebook.</title>
+      <link>https://vishkaush.github.io/publication/kabara-2016-particle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kabara-2016-particle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

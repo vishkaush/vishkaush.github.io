@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Tech Talks | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/talk/</link>
+      <atom:link href="https://vishkaush.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Tech Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Fri, 12 Jul 2019 14:30:09 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/techtalk.jpg</url>
+      <title>My Tech Talks</title>
+      <link>https://vishkaush.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>AI/ML@CSE: AutoAugment - Learning Augmentation Strategies from Data</title>
+      <link>https://vishkaush.github.io/talk/auto-augment/</link>
+      <pubDate>Fri, 12 Jul 2019 14:30:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/auto-augment/</guid>
+      <description>&lt;p&gt;Best way to learn is to teach. Gave my second talk today in the Machine Learning reading group of CSE@IITB. I was getting curious about an emerging topic called AutoML and thought it wise to present one of the AutoML techniques, called &lt;a href=&#34;http://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf&#34; target=&#34;_blank&#34;&gt;AutoAugment&lt;/a&gt; which was presented in &lt;a href=&#34;http://cvpr2019.thecvf.com/&#34; target=&#34;_blank&#34;&gt;CVPR 2019&lt;/a&gt;. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RISC talk: Video Analytics for Security and Compliance</title>
+      <link>https://vishkaush.github.io/talk/risc2019/</link>
+      <pubDate>Sat, 30 Mar 2019 11:20:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/risc2019/</guid>
+      <description>&lt;p&gt;RISC, the Research and Innovation Symposium in Computing is an annual symposium organized by the Computer Science and Engineering department, IIT Bombay to showcase the ongoing research to colleagues, faculty and industry. This year it was held on 30th March 2019. I gave a talk briefly describing my work in video analytics so far. We were told to keep the presentation fairly high level so that it can be relevant to the diverse audience. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;risc.png&#34; alt=&#34;pic&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intel Workshop: ML for Surveillance Video Analytics</title>
+      <link>https://vishkaush.github.io/talk/intel/</link>
+      <pubDate>Sat, 07 Apr 2018 14:30:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/intel/</guid>
+      <description>&lt;p&gt;Intel in collaboration with IIT Bombay had organized an AI/ML Workshop in IIT Bombay. I was happy to give a talk entitled &amp;ldquo;Use of ML in Surveillance Video Analytics&amp;rdquo; along with showcasing some projects that we have been doing in this area. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI/ML@CSE- YOLO: Real Time Object Detection</title>
+      <link>https://vishkaush.github.io/talk/yolo/</link>
+      <pubDate>Wed, 11 Jan 2017 14:30:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/yolo/</guid>
+      <description>&lt;p&gt;Gave a talk today in the Machine Learning reading group of CSE@IITB. With this I become the first one to present in this group. What could have been a better choice than something hot off the press from &lt;a href=&#34;http://cvpr2016.thecvf.com/&#34; target=&#34;_blank&#34;&gt;CVPR 2016&lt;/a&gt;? &lt;a href=&#34;http://pjreddie.com/darknet/yolo/&#34; target=&#34;_blank&#34;&gt;YOLO&lt;/a&gt;&amp;rsquo;s claim to fame is that it is the most accurate real-time object detector and is also the fastest object detector in literature today. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Followup after talk:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have added a slide towards the end containing the questions (from the session) that could potentially provide further directions for research. I have also explicitly elaborated on the various terms in the multi-part loss function that YOLO uses.&lt;/p&gt;
+
+&lt;p&gt;Below are some of the questions (and answers) from the session for quick reference.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If there is a unique mapping between a grid cell and the object it is center of, do we really need four parameters, x, y, w and h?
+A: Yes, because given a grid cell, the bounding boxes that it predicts could be anywhere and of any size. x and y marks the center of the bounding box, relative to the grid cell (normalized as an offset between 0 and 1)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How could a prior probably be modeled in the loss function?
+A: Good question. Included in last slide for further investigation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Any studies on depth perception in images?
+A: Good question. Included in last slide for further investigation. This perhaps good give clues for good prior as well!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;YOLO claims to generalize well to other domains but has tested itself only for person detection in artworks! Who knows it didn&amp;rsquo;t do well in other domains?
+A: Yes, you never know ;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How is NIN a substitute for inception architecture used by GoogleNet?
+A: Good question. Included in last slide for further investigation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Would YOLO do well if in the same object portions of that object are also labelled as the whole? For example, face of the dog labeled as &amp;ldquo;dog&amp;rdquo; and the whole body also labeled as &amp;ldquo;dog&amp;rdquo; in the same image for the same dog
+A: It does detect any object appearing in different forms. Plus it does label objects inside objects. Given these two I believe there is no reason YOLO will not do well on the question asked.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Non Max Supression and Thresholding are post-processing steps?
+A: I am not sure if i answered this as no. I goofed up if I did so. The answer to this question has to be yes, as the output, as we discussed, is a complete tensor with info about all boxes, hence calling for a post processing step (which is quick and doesn&amp;rsquo;t require any optimization as against the separate optimization required in R-CNN for adjusting the bounding boxes).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;YOLO 9000 jointly optimizes classification and detection. Isn&amp;rsquo;t YOLO doing the same by eliminating that complex pipeline?
+A: No. YOLO is only bothered about detection and is modeling that as an end-to-end regression problem. The effect of classification is getting implicitly created by the CNN. YOLO 9000 on the other hand has the ability to jointly train on classification data and detection data. Quoting them, &amp;ldquo;&amp;hellip; uses images labelled for detection to learn detection-specific information like bounding box coordinate prediction and objectness as well as how to classify common objects. It uses images with only class labels to expand the number of categories it can detect&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What is multi-scale training?
+A: Making a network robust to running on images of different sizes by training this aspect into the model. YOLO 9000 implements this. They argue that since their model only uses convolutional and pooling layers it can be resized on the fly. They change the network every few iterations. Every 10 batches their network randomly chooses a new image dimension size. This technique forces the network to learn to predict well across a variety of input dimensions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Have they said anything about the choice of S?
+A: No. They have used S=7 for their experiments but have not commented on how they got that number.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Thought process behind their network architecture?
+A: Not revealed by them except for the fact that it is inspired by GoogLeNet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

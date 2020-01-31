@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandeep Subramanian | Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/authors/sandeep-subramanian/</link>
+      <atom:link href="https://vishkaush.github.io/authors/sandeep-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandeep Subramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>Sandeep Subramanian</title>
+      <link>https://vishkaush.github.io/authors/sandeep-subramanian/</link>
+    </image>
+    
+    <item>
+      <title>A Framework towards Domain Specific Video Summarization</title>
+      <link>https://vishkaush.github.io/publication/kaushal-2019-framework/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kaushal-2019-framework/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

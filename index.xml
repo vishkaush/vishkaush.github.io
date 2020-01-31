@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vishal Kaushal</title>
+    <link>https://vishkaush.github.io/</link>
+      <atom:link href="https://vishkaush.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vishal Kaushal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vishal Kaushal</copyright><lastBuildDate>Wed, 01 Jan 2020 16:03:01 +0530</lastBuildDate>
+    <image>
+      <url>https://vishkaush.github.io/img/VK.jpg</url>
+      <title>Vishal Kaushal</title>
+      <link>https://vishkaush.github.io/</link>
+    </image>
+    
+    <item>
+      <title>My first article in Times of India</title>
+      <link>https://vishkaush.github.io/post/iit-and-beyond/</link>
+      <pubDate>Wed, 01 Jan 2020 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/iit-and-beyond/</guid>
+      <description>&lt;p&gt;While reorganizing my cupboards this new year, I came across an old file of mine containing some newspaper cuttings. A closer look took me almost 14 years down the memory lane. This was my first article published on 22nd May 2006 in the Education Times of the prestigious TImes of India. I was approached to share my experiences on getting into IIT and passing out as a topper of the Computer Science and Engineering Department and this is what I wrote!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;iitarticle1.jpg&#34; alt=&#34;iitarticle1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;iitarticle2.jpg&#34; alt=&#34;iitarticle2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;iitarticle3.jpg&#34; alt=&#34;iitarticle3&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This came to me as an embarrassment</title>
+      <link>https://vishkaush.github.io/post/gratitude-kenjale/</link>
+      <pubDate>Mon, 16 Sep 2019 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/gratitude-kenjale/</guid>
+      <description>&lt;p&gt;Some time back, one of my close family friends, Shri Santosh Kenjale, shared this with me and it was really embarrassing for me to come across this. He has been taking guidance from me on certain matters of life and sees me as his mentor, though elder in age to me. Out of gratitude, he poured out his heart and wrote about me in an article for a magazine. Embarrassing it was, but I had to come to terms with it and I felt really honored, blessed and humbled. Thank you Kenjale ji for writing about me. I pray that I will be able to live upto your expectations and I really thank you for being such a gem. It is said gratitude is the most fundamental quality of a human being and one who is not grateful is considered to be the worst of humans. I have to learn a lot from you!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;kenjale.jpg&#34; alt=&#34;gratitude&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Destiny</title>
+      <link>https://vishkaush.github.io/post/seminar-destiny-iitk/</link>
+      <pubDate>Sun, 25 Aug 2019 18:15:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/post/seminar-destiny-iitk/</guid>
+      <description>&lt;p&gt;Was happy to interact with the &lt;strong&gt;new batch of MTech students at IIT Kanpur&lt;/strong&gt; this year. As they look forward to a wonderful experience and training ahead at IIT Kanpur and prepare themselves to deal with the challenges of life, this came for them as a much needed session to put things in perspective. Through this interactive session I touched upon the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why are we not as gifted as some of the others?&lt;/li&gt;
+&lt;li&gt;Sometimes why do we not get what we want inspite of putting in a lot of hard work?&lt;/li&gt;
+&lt;li&gt;Is there something called destiny? If yes, then what is the point working hard?&lt;/li&gt;
+&lt;li&gt;Law of Karma and how it affects our destiny&lt;/li&gt;
+&lt;li&gt;Two incorrect understandings about destiny and karma&lt;/li&gt;
+&lt;li&gt;Key to success - the seven wonders of life&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;speaker.jpeg&#34; alt=&#34;speaker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;students.jpg&#34; alt=&#34;students&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post Mortem Video Search Tool</title>
+      <link>https://vishkaush.github.io/project/postmortem/</link>
+      <pubDate>Wed, 07 Aug 2019 23:45:08 +0530</pubDate>
+      <guid>https://vishkaush.github.io/project/postmortem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Video Analytics</title>
+      <link>https://vishkaush.github.io/project/realtime/</link>
+      <pubDate>Wed, 07 Aug 2019 23:45:08 +0530</pubDate>
+      <guid>https://vishkaush.github.io/project/realtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI/ML@CSE: AutoAugment - Learning Augmentation Strategies from Data</title>
+      <link>https://vishkaush.github.io/talk/auto-augment/</link>
+      <pubDate>Fri, 12 Jul 2019 14:30:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/auto-augment/</guid>
+      <description>&lt;p&gt;Best way to learn is to teach. Gave my second talk today in the Machine Learning reading group of CSE@IITB. I was getting curious about an emerging topic called AutoML and thought it wise to present one of the AutoML techniques, called &lt;a href=&#34;http://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf&#34; target=&#34;_blank&#34;&gt;AutoAugment&lt;/a&gt; which was presented in &lt;a href=&#34;http://cvpr2019.thecvf.com/&#34; target=&#34;_blank&#34;&gt;CVPR 2019&lt;/a&gt;. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RISC talk: Video Analytics for Security and Compliance</title>
+      <link>https://vishkaush.github.io/talk/risc2019/</link>
+      <pubDate>Sat, 30 Mar 2019 11:20:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/risc2019/</guid>
+      <description>&lt;p&gt;RISC, the Research and Innovation Symposium in Computing is an annual symposium organized by the Computer Science and Engineering department, IIT Bombay to showcase the ongoing research to colleagues, faculty and industry. This year it was held on 30th March 2019. I gave a talk briefly describing my work in video analytics so far. We were told to keep the presentation fairly high level so that it can be relevant to the diverse audience. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;risc.png&#34; alt=&#34;pic&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our projects covered in News18 show &#39;Bharat Ki Baat&#39;</title>
+      <link>https://vishkaush.github.io/post/bharat-ki-baat/</link>
+      <pubDate>Wed, 27 Feb 2019 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/bharat-ki-baat/</guid>
+      <description>&lt;p&gt;Happy to share that our work got some coverage in an episode of &amp;ldquo;Bharat Ki Baat&amp;rdquo; on the theme &lt;strong&gt;Digital India &amp;amp; IT&lt;/strong&gt;. Seen in the video is my PhD advisor &lt;strong&gt;&lt;a href=&#34;https://www.cse.iitb.ac.in/~ganesh/&#34; target=&#34;_blank&#34;&gt;Prof. Ganesh Ramakrishnan&lt;/a&gt;&lt;/strong&gt; talking about the need of using AI/ML to enhance the country&amp;rsquo;s security and the possibilities therein. Some glimpses of the demonstration of our product prototypes that we have developed can also be seen in the video. If you are running short of time, you may directly jump to 19:18 :)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Mp2LONxUPbA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;bharat.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Machine :)</title>
+      <link>https://vishkaush.github.io/journey/</link>
+      <pubDate>Thu, 24 Jan 2019 17:07:32 +0530</pubDate>
+      <guid>https://vishkaush.github.io/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishkaush.github.io/blog/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishkaush.github.io/faq/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishkaush.github.io/teacher/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/teacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishkaush.github.io/testimonials/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/testimonials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishkaush.github.io/xtras/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/xtras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework towards Domain Specific Video Summarization</title>
+      <link>https://vishkaush.github.io/publication/kaushal-2019-framework/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kaushal-2019-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity, Representation, Coverage and Importance</title>
+      <link>https://vishkaush.github.io/publication/kaushal-2019-demystifying/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kaushal-2019-demystifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision</title>
+      <link>https://vishkaush.github.io/publication/kaushal-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kaushal-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All India Heads of Police Communication Conference</title>
+      <link>https://vishkaush.github.io/post/heads-of-police/</link>
+      <pubDate>Wed, 21 Nov 2018 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/heads-of-police/</guid>
+      <description>&lt;p&gt;Attended the All India Heads of Police Communication conference held at Vigyan Bhawan, New Delhi on 19th and 20th November 2018. I was one of the delegates representing NCETIS (National Center of Excellence in Technology for Internal Security), IITB and was there to showcase some of the product prototypes we have developed to the heads of police from across several states. It was an awesome conference to be a part of.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;hop1.jpg&#34; alt=&#34;hop1&#34; /&gt;
+&lt;img src=&#34;hop2.jpg&#34; alt=&#34;hop2&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science and (Non)Science</title>
+      <link>https://vishkaush.github.io/post/so-called-science/</link>
+      <pubDate>Sun, 16 Sep 2018 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/so-called-science/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Science&lt;/em&gt;, (from the Latin word scientia, meaning &amp;ldquo;knowledge&amp;rdquo;), is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. [Source: Wikipedia]&lt;/p&gt;
+
+&lt;p&gt;Being open to accept any of the possible hypotheses given sufficient evidence without being attached to a specific hypothesis (read dogma) driven by ulterior motives is the very essence of any scientific study.&lt;/p&gt;
+
+&lt;p&gt;In this light, I hope the below is only a mockery of &amp;ldquo;non-science&amp;rdquo; and true science better be genuine and open in its intent and findings as upheld by &lt;strong&gt;some of the renowned scientists of the past&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;non-science.jpg&#34; alt=&#34;non science&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;einstein.jpeg&#34; alt=&#34;einstein&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;kelvin.jpeg&#34; alt=&#34;kelvin&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;newton.jpg&#34; alt=&#34;newton&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sagan.jpeg&#34; alt=&#34;sagan&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do It Anyway</title>
+      <link>https://vishkaush.github.io/post/do-it-anyway/</link>
+      <pubDate>Thu, 16 Aug 2018 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/do-it-anyway/</guid>
+      <description>&lt;p&gt;People are often unreasonable, irrational, and self-centered.  &lt;em&gt;Forgive them anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are kind, people may accuse you of selfish, ulterior motives.  &lt;em&gt;Be kind anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are successful, you will win some unfaithful friends and some genuine enemies.  &lt;em&gt;Succeed anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are honest and sincere people may deceive you.  &lt;em&gt;Be honest and sincere anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;What you spend years creating, others could destroy overnight.  &lt;em&gt;Create anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you find serenity and happiness, some may be jealous.  &lt;em&gt;Be happy anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The good you do today, will often be forgotten.  &lt;em&gt;Do good anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Give the best you have, and it will never be enough.  &lt;em&gt;Give your best anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the final analysis, it is between you and God.  &lt;em&gt;It was never between you and them anyway&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;-Attributed to Mother Teresa&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Easy and Difficult</title>
+      <link>https://vishkaush.github.io/post/easy-difficult/</link>
+      <pubDate>Mon, 16 Jul 2018 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/easy-difficult/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to judge the mistakes of others;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to recognize our own mistakes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to talk without thinking;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to refrain the tongue&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to hurt someone who loves us;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to heal the wound&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to forgive others;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to ask for forgiveness&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to set the rules;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to follow them&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to show victory;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to assume defeat with dignity&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to enjoy life everyday;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to give its real value&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to say we love;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to show it everyday&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to criticize others;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to improve oneself&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to weep for a lost love;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to take care of it so not to lose it&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to think about improving;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to stop thinking and put it into action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to think bad of others;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to give them the benefit of doubt&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to receive;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to give&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy&lt;/strong&gt; is to keep friendship with words;
+&lt;strong&gt;Difficult&lt;/strong&gt; is to keep it with meanings&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intel Workshop: ML for Surveillance Video Analytics</title>
+      <link>https://vishkaush.github.io/talk/intel/</link>
+      <pubDate>Sat, 07 Apr 2018 14:30:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/intel/</guid>
+      <description>&lt;p&gt;Intel in collaboration with IIT Bombay had organized an AI/ML Workshop in IIT Bombay. I was happy to give a talk entitled &amp;ldquo;Use of ML in Surveillance Video Analytics&amp;rdquo; along with showcasing some projects that we have been doing in this area. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emerging trends in personality identification using online social networks—a literature survey</title>
+      <link>https://vishkaush.github.io/publication/kaushal-2018-emerging/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kaushal-2018-emerging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vis-DSS: An Open-Source toolkit for Visual Data Selection and Summarization</title>
+      <link>https://vishkaush.github.io/publication/iyer-2018-vis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/iyer-2018-vis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India International Security Expo</title>
+      <link>https://vishkaush.github.io/post/security-expo/</link>
+      <pubDate>Sun, 15 Oct 2017 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/security-expo/</guid>
+      <description>&lt;p&gt;Another event where I represented NCETIS, IIT Bombay to showcase our product prototypes in the area of automatic analysis of videos for security applications. This was held from 5th to 7th October 2017 and was attended by the who&amp;rsquo;s who in the security space both from the government and from the industry. Seen in the picture is me giving a demonstration to &lt;strong&gt;Shri Kiran Rijiju&lt;/strong&gt;, the then Minister of State for Home Affairs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;security-2.jpeg&#34; alt=&#34;two&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;security-1.jpg&#34; alt=&#34;one&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Want to become happy?</title>
+      <link>https://vishkaush.github.io/post/stay-away-from-misery/</link>
+      <pubDate>Thu, 24 Aug 2017 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/stay-away-from-misery/</guid>
+      <description>&lt;p&gt;Are you one of those who want to become happy? Start by staying away from things which can make you miserable. Somebody has nicely defined &amp;ldquo;misery&amp;rdquo; as &amp;ldquo;you get what you don&amp;rsquo;t want and you don&amp;rsquo;t get what you want&amp;rdquo;. Check out this brilliant video about seven things that can make you miserable. Stay away from them, if you want some happinss in life. Thanks again, &lt;a href=&#34;https://www.youtube.com/CGPGrey&#34; target=&#34;_blank&#34;&gt;CGP Grey&lt;/a&gt;!
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/LO1mTELoj6o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU vs CPU - Demonstrated!</title>
+      <link>https://vishkaush.github.io/post/gpu/</link>
+      <pubDate>Thu, 10 Aug 2017 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/gpu/</guid>
+      <description>&lt;p&gt;Everybody has heard of CPUs - the Central Processing Units - which make the &amp;ldquo;brain&amp;rdquo; of every computer. GPUs - Graphics Processing Units - are lesser heard of unless you are into gaming or are int machine learning. The highly parallel structure of GPUs make them more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel. Here is a brilliant demonstration of the same.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-P28LKWTzrI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How old are we?</title>
+      <link>https://vishkaush.github.io/post/human/</link>
+      <pubDate>Thu, 20 Jul 2017 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/human/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UagdU1qYnC8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Contrary to the popular belief (thanks to Mr. Darwin) that modern humans evolved in East Africa 200,000 years ago, fossils recovered from an old mine on a desolate mountain in Morocco indicate that we are &amp;ldquo;older&amp;rdquo;. Though this has come as a shock to many faithful followers of Charles Darwin, the believers continue to (rationally) believe that God has created us all. The ancient texts of wisdom like The Holy Bible, The Quran, The Bhagavvd Gita, The Srimad Bhagvatam and the likes - all maintain and explain this understanding. Bhagavad Gita infact does refer to evolution - not of body, but that of the consciousness. A living entity evolves in its consciousness as it goes around in its journey through the various species of life, pretty much like a child who &amp;ldquo;evolves&amp;rdquo; from grade 5 to grade 6. The classrooms don&amp;rsquo;t evolve, the child does.&lt;/p&gt;
+
+&lt;p&gt;There is now enough evidence against the theory of evolution. Darwin proposed a theory in the famous &amp;ldquo;&lt;a href=&#34;http://www.literature.org/authors/darwin-charles/the-origin-of-species/index.html&#34; target=&#34;_blank&#34;&gt;Origin of Species&lt;/a&gt;&amp;rdquo;, but he has two entire chapters, &lt;a href=&#34;http://www.literature.org/authors/darwin-charles/the-origin-of-species/chapter-06.html&#34; target=&#34;_blank&#34;&gt;Difficulties on Theory&lt;/a&gt; and &lt;a href=&#34;http://www.literature.org/authors/darwin-charles/the-origin-of-species/chapter-09.html&#34; target=&#34;_blank&#34;&gt;On the imperfection of the Geological Record&lt;/a&gt;, that state that the evidence his theory required was missing. He assumed the evidence would be there some time in the future and his faithful followers are still searching for those. Meanwhile, I encourage you to go through these resources and see for yourself what makes more sense - evolution or creation!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.naturesiq.com/&#34; target=&#34;_blank&#34;&gt;Nature&amp;rsquo;s IQ&lt;/a&gt; and &lt;a href=&#34;http://www.naturesiqfilm.com/&#34; target=&#34;_blank&#34;&gt;Nature&amp;rsquo;s IQ - The Film&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://harunyahya.com/en/76/categories/collapse-of-the-theory-of&#34; target=&#34;_blank&#34;&gt;Collapse of Darwinism&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.forbiddenarcheology.com/&#34; target=&#34;_blank&#34;&gt;Forbidden Archaeology&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is spirituality nothing more than a fashion?</title>
+      <link>https://vishkaush.github.io/post/spirituality-fashion/</link>
+      <pubDate>Thu, 18 May 2017 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/spirituality-fashion/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/SBJYCb3nvi4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Spirituality is the new &lt;strong&gt;buzzword&lt;/strong&gt; of the town. Some see it as a budding career, some delight in expressing their orientation as &lt;em&gt;&amp;ldquo;spiritual but not religious&amp;rdquo;&lt;/em&gt;. Some use it to describe any experience which is out of this world.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Just what is spirituality?&lt;/strong&gt; Can any and every experience be termed spiritual? Not really. Most of us tend to think that we are human beings with a spiritual dimension to life. Bhagavad Gita however tells that we are spiritual beings, currently in this human body. Spirituality begins with the understanding that we are not this body, but a driver within this body, the spirit soul, part and parcel of God. No wonder, this is how Lord Krishna begins his teachings to Arjuna in the form of Bhagavad Gita.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bg.png&#34; alt=&#34;bg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Anti) Social Media</title>
+      <link>https://vishkaush.github.io/post/anti-social-media/</link>
+      <pubDate>Wed, 29 Mar 2017 17:07:32 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/anti-social-media/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I bumped into an elderly co-passenger&lt;/em&gt; in train the other day who was struggling to manage his contacts on phone. Sensing that I am a technology guy (due to my laptop, I guess) he asked me for help. Now for any of us who have grown in the word of technology, this is certainly not the most difficult problem to solve. Sure enough, I helped him out and was satisfied to see a smile on his face. In appreciation, he spoke - &lt;strong&gt;&amp;lsquo;how wonderful is it that the world has become smaller due to technology!&amp;rsquo;&lt;/strong&gt;. Before I could decide whether to agree or disagree, my station was waiting for me and I stepped out of the train.&lt;/p&gt;
+
+&lt;p&gt;Has technology made the world smaller? Or bigger? Earlier in villages, away from technology, everybody would know each other well and share their joys and sorrows together. Today, yes, we can talk to our friend on the other side of the globe, but do we know or care to know who is our neighbor? Haven&amp;rsquo;t the distances with our neighbors, with our family members, with each other, increased?&lt;/p&gt;
+
+&lt;p&gt;Search for &lt;em&gt;&amp;ldquo;social media depression&amp;rsquo;&lt;/em&gt;, &lt;em&gt;&amp;ldquo;social media loneliness&amp;rdquo;&lt;/em&gt; in &lt;a href=&#34;www.google.com&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt; and you will see tons of scientific studies and news articles telling how &lt;strong&gt;&lt;em&gt;anti&lt;/em&gt;&lt;/strong&gt;-social the &lt;em&gt;social&lt;/em&gt; media has become. Here is a sample:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/technology/2017/03/06/much-social-media-increases-loneliness-envy-study/&#34; target=&#34;_blank&#34;&gt;Too much social media &amp;lsquo;increases loneliness and envy&amp;rsquo;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://socialmediaweek.org/blog/2015/06/social-media-even-lonely/&#34; target=&#34;_blank&#34;&gt;Why Social Makes Us Even More Lonely&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.eurekalert.org/pub_releases/2017-03/uops-msc022817.php&#34; target=&#34;_blank&#34;&gt;More social connection online tied to increasing feelings of isolation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.psychologytoday.com/blog/why-we-worry/201612/social-media-loneliness-and-anxiety-in-young-people&#34; target=&#34;_blank&#34;&gt;Social Media, Loneliness, and Anxiety in Young People&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.psychologytoday.com/blog/the-practical-professor/201507/the-loneliness-social-media-part-one&#34; target=&#34;_blank&#34;&gt;The loneliness of Social Media&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.huffingtonpost.com/aj-agrawal/are-social-networks-causi_b_12396080.html&#34; target=&#34;_blank&#34;&gt;Are Social Networks Causing Loneliness Among Teens?&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;hellip;the list goes on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;lonely.jpg&#34; alt=&#34;lonely cartoon&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We are people. We need people.&lt;/em&gt; How wealthy you are, is determined by number of things you have that money can&amp;rsquo;t buy. It is relationships that make us happy. People are to be loved, objects are to be used. Unfortunately, we have come far, so far, that objects are being loved and people are being used. Our capacity and willingness to deal with inter-personal differences has got so reduced that we prefer texting over calling, we prefer &lt;a href=&#34;www.facebook.com&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; friends over real friends. Social media began well, with a lot of promises, but has only ended up leaving many lonelier than ever before. Of course, social media in itself is not good or bad. When one realizes that life is bigger and more real than social media, when one recognizes ones spiritual identity, one is able to use technology as one&amp;rsquo;s servant and doesn&amp;rsquo;t end up becoming its slave!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A gentle introduction to Machine Learning</title>
+      <link>https://vishkaush.github.io/post/ml-intro/</link>
+      <pubDate>Fri, 17 Feb 2017 14:53:39 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/ml-intro/</guid>
+      <description>&lt;p&gt;One of the better introductions to Machine Learning I have come across till now. It is at a very high level, I must admit, but the non-mathematical intuition behind the most basic and fundamental algorithms of Machine Learning has been very nicely covered with appropriate examples. Good job, &lt;a href=&#34;https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ&#34; target=&#34;_blank&#34;&gt;Luis Serrano.&lt;/a&gt; Do check out!&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/IpGxLWOIZy4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Three days with the Indian Army</title>
+      <link>https://vishkaush.github.io/post/army2016/</link>
+      <pubDate>Mon, 16 Jan 2017 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/army2016/</guid>
+      <description>&lt;p&gt;It is quite happening to pursue PhD at IITB. Here is an example. In the capacity of a research assistant I work on several projects with my PhD advisor, Prof. Ganesh Ramakrishnan. One of the projects, &lt;em&gt;SurakshaVyuha&lt;/em&gt; is about detecting certain events of interest in real-time from the live feeds coming from surveillance cameras. To demonstrate the prototype developed and to further understand the requirements from the horse&amp;rsquo;s mouth, I and my advisor went to an army location near the LoC (&lt;strong&gt;yes, the LoC!&lt;/strong&gt;). This was in December 2016.&lt;/p&gt;
+
+&lt;p&gt;It was my first experience (and I must say only one of its kind) to stay in one of the brigade head quarters getting to interact with the officers as well as jawans posted there. I was really impressed with their hospitality. Their discipline, their comradry, their organization, their endurance, and above all, their spirit - all par excellence. Came back with a lot of respect for our army in my heart than ever before. &lt;strong&gt;Jai Hind!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;army3.jpg&#34; alt=&#34;army2&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI/ML@CSE- YOLO: Real Time Object Detection</title>
+      <link>https://vishkaush.github.io/talk/yolo/</link>
+      <pubDate>Wed, 11 Jan 2017 14:30:09 +0530</pubDate>
+      <guid>https://vishkaush.github.io/talk/yolo/</guid>
+      <description>&lt;p&gt;Gave a talk today in the Machine Learning reading group of CSE@IITB. With this I become the first one to present in this group. What could have been a better choice than something hot off the press from &lt;a href=&#34;http://cvpr2016.thecvf.com/&#34; target=&#34;_blank&#34;&gt;CVPR 2016&lt;/a&gt;? &lt;a href=&#34;http://pjreddie.com/darknet/yolo/&#34; target=&#34;_blank&#34;&gt;YOLO&lt;/a&gt;&amp;rsquo;s claim to fame is that it is the most accurate real-time object detector and is also the fastest object detector in literature today. Hit the PDF button on the top-left of this page and enjoy the slides.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Followup after talk:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have added a slide towards the end containing the questions (from the session) that could potentially provide further directions for research. I have also explicitly elaborated on the various terms in the multi-part loss function that YOLO uses.&lt;/p&gt;
+
+&lt;p&gt;Below are some of the questions (and answers) from the session for quick reference.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If there is a unique mapping between a grid cell and the object it is center of, do we really need four parameters, x, y, w and h?
+A: Yes, because given a grid cell, the bounding boxes that it predicts could be anywhere and of any size. x and y marks the center of the bounding box, relative to the grid cell (normalized as an offset between 0 and 1)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How could a prior probably be modeled in the loss function?
+A: Good question. Included in last slide for further investigation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Any studies on depth perception in images?
+A: Good question. Included in last slide for further investigation. This perhaps good give clues for good prior as well!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;YOLO claims to generalize well to other domains but has tested itself only for person detection in artworks! Who knows it didn&amp;rsquo;t do well in other domains?
+A: Yes, you never know ;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How is NIN a substitute for inception architecture used by GoogleNet?
+A: Good question. Included in last slide for further investigation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Would YOLO do well if in the same object portions of that object are also labelled as the whole? For example, face of the dog labeled as &amp;ldquo;dog&amp;rdquo; and the whole body also labeled as &amp;ldquo;dog&amp;rdquo; in the same image for the same dog
+A: It does detect any object appearing in different forms. Plus it does label objects inside objects. Given these two I believe there is no reason YOLO will not do well on the question asked.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Non Max Supression and Thresholding are post-processing steps?
+A: I am not sure if i answered this as no. I goofed up if I did so. The answer to this question has to be yes, as the output, as we discussed, is a complete tensor with info about all boxes, hence calling for a post processing step (which is quick and doesn&amp;rsquo;t require any optimization as against the separate optimization required in R-CNN for adjusting the bounding boxes).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;YOLO 9000 jointly optimizes classification and detection. Isn&amp;rsquo;t YOLO doing the same by eliminating that complex pipeline?
+A: No. YOLO is only bothered about detection and is modeling that as an end-to-end regression problem. The effect of classification is getting implicitly created by the CNN. YOLO 9000 on the other hand has the ability to jointly train on classification data and detection data. Quoting them, &amp;ldquo;&amp;hellip; uses images labelled for detection to learn detection-specific information like bounding box coordinate prediction and objectness as well as how to classify common objects. It uses images with only class labels to expand the number of categories it can detect&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What is multi-scale training?
+A: Making a network robust to running on images of different sizes by training this aspect into the model. YOLO 9000 implements this. They argue that since their model only uses convolutional and pooling layers it can be resized on the fly. They change the network every few iterations. Every 10 batches their network randomly chooses a new image dimension size. This technique forces the network to learn to predict well across a variety of input dimensions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Have they said anything about the choice of S?
+A: No. They have used S=7 for their experiments but have not commented on how they got that number.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Thought process behind their network architecture?
+A: Not revealed by them except for the fact that it is inspired by GoogLeNet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nVidia GTCx India 2016</title>
+      <link>https://vishkaush.github.io/post/nvidia-workshop/</link>
+      <pubDate>Thu, 15 Dec 2016 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/nvidia-workshop/</guid>
+      <description>&lt;p&gt;Attended GTCx India 2016 organized by nVidia on December 6th at Renaissance Convention Centre, Powai, Mumbai. Checkout the keynote sessions &lt;a href=&#34;https://www.youtube.com/watch?v=VLufuchl3Bg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;nvidia1.jpg&#34; alt=&#34;one&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;nvidia2.jpg&#34; alt=&#34;two&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A.D.E.P.T</title>
+      <link>https://vishkaush.github.io/post/adept/</link>
+      <pubDate>Sat, 16 Jul 2016 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/adept/</guid>
+      <description>&lt;p&gt;Need to give a talk or conduct a lecture? Wondering what is one of the more effective ways of explaining a concept to somebody who has absolutely no idea of what it is about? Try &lt;strong&gt;A.D.E.P.T.&lt;/strong&gt; This idea from Kalid Azad of &lt;a href=&#34;www.betterexplained.com&#34; target=&#34;_blank&#34;&gt;betterexplained.com&lt;/a&gt; seems quite interesting.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A - Analogies&lt;/li&gt;
+&lt;li&gt;D - Diagrams&lt;/li&gt;
+&lt;li&gt;E - Examples&lt;/li&gt;
+&lt;li&gt;P - Plain Language&lt;/li&gt;
+&lt;li&gt;T - Technical Definition&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer School on Deep Learning for Computer Vision</title>
+      <link>https://vishkaush.github.io/post/ssdlcv/</link>
+      <pubDate>Tue, 12 Jul 2016 18:03:15 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/ssdlcv/</guid>
+      <description>&lt;p&gt;I am currently in Hyderabad attending a 6-day &lt;a href=&#34;http://cvit.iiit.ac.in/summerschool/&#34; target=&#34;_blank&#34;&gt;summer school on deep learning for computer vision&lt;/a&gt; organized by Center for Visual Information Technology, IIIT Hyderabad. Couldn&amp;rsquo;t have asked for a better start to my PhD - with renowned speakers presenting the state-of-the-art in this space and with lots of hand on lab sessions. If you are interested in deep learning in general and in deep learning for computer vision in particular, do checkout this &lt;a href=&#34;http://cvit.iiit.ac.in/summerschool/resources.html&#34; target=&#34;_blank&#34;&gt;wonderful compilation of available resources&lt;/a&gt;. It is quite comprehensive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A bug in fMRI software could invalidate 15 years of brain research</title>
+      <link>https://vishkaush.github.io/post/bug-in-fmri-software/</link>
+      <pubDate>Thu, 07 Jul 2016 18:01:31 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/bug-in-fmri-software/</guid>
+      <description>&lt;p&gt;Not that I like to condemn our scientific and technological advancement (as a research scholar at IIT Bombay I myself am full time into it) but I want to make a point that when people label faith (in God/spirituality) as unscientific, they may be failing to understand that what is &amp;ldquo;scientific&amp;rdquo; also demands some kind of faith, if you understand what I mean. According to a &lt;a href=&#34;http://www.sciencealert.com/a-bug-in-fmri-software-could-invalidate-decades-of-brain-research-scientists-discover&#34; target=&#34;_blank&#34;&gt;recent post in science alert&lt;/a&gt;, a bug in fMRI software could invalidate 15 years of brain research! If this (unfortunately) turns out to be true, what would you call all past decisions made based on these functional magnetic resonance imaging (fMRI) reports - scientific or made in good &amp;ldquo;faith&amp;rdquo; on &amp;ldquo;science&amp;rdquo;?&lt;/p&gt;
+
+&lt;p&gt;The question is thus not about &lt;strong&gt;faith or science&lt;/strong&gt; but about &lt;strong&gt;logical or reasonable faith vs blind faith.&lt;/strong&gt; in whatever we come across - be it science or spirituality. A genuine scientist would do good to not outrightly label spirituality as something which demands faith and anything scientific as something to do nothing with faith.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hats off to the creativity of whoever has made this video!</title>
+      <link>https://vishkaush.github.io/post/funny-conf-call/</link>
+      <pubDate>Fri, 01 Jul 2016 17:57:32 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/funny-conf-call/</guid>
+      <description>&lt;p&gt;If you have ever worked in industry for some time, you have attended quit a bit of &amp;ldquo;conf calls over phone&amp;rdquo;. This is a really creative video depicting how an &amp;ldquo;audio&amp;rdquo; conf call would &amp;ldquo;look&amp;rdquo; if it were to! :) A must watch.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DYu_bGbZiiQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Life = Soul, not Heart - Man goes 555 days without one!!</title>
+      <link>https://vishkaush.github.io/post/life-soul-heart/</link>
+      <pubDate>Mon, 13 Jun 2016 17:51:05 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/life-soul-heart/</guid>
+      <description>&lt;p&gt;According to the Supreme Personality of Godhead Shri Krishna in Bhagavad Gita &lt;a href=&#34;http://www.vedabase.com/en/bg/18/61&#34; target=&#34;_blank&#34;&gt;18.61&lt;/a&gt;, this body is like a machine, with various organs equivalent to different parts/instruments of the machine. Else where in &lt;a href=&#34;http://www.vedabase.com/en/bg/2/20&#34; target=&#34;_blank&#34;&gt;2.20&lt;/a&gt; He describes the driver or the operator of the machine as us, the living beings, the spirit soul which is indestructible. Interestingly, the following recent news is inline with the above facts mentioned in Bhagavd Gita. Do read and share! &lt;a href=&#34;http://timesofindia.indiatimes.com/home/science/25-year-old-goes-555-days-without-a-heart/articleshow/52714587.cms?utm_source=newsletter&amp;amp;utm_medium=referral&amp;amp;utm_campaign=digest_section&#34; target=&#34;_blank&#34;&gt;25-year old goes 555 days without a heart!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My statement of purpose for getting into the PhD program at IITB</title>
+      <link>https://vishkaush.github.io/post/sop/</link>
+      <pubDate>Mon, 30 May 2016 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/sop/</guid>
+      <description>&lt;p&gt;While getting into the PhD program at IITB I was asked to give a &lt;strong&gt;statement of purpose&lt;/strong&gt; as a common practice world wide. I am not sure whether anybody really read it or not, but I really meant what I wrote :)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Statement of Purpose (SOP) for admission to the PhD Programme in Computer Science &amp;amp; Engineering at IIT Bombay in the field of Machine Learning/Data Mining/Data Analytics&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The role of brain in a human body can never be overstated. Similar, in my opinion, is the role of the intelligentsia in the society. I strongly believe that the best brains in the world should be contributing to the field of research and education and in this way make a tangible contribution to the society. Though I do not claim to be among the best brains in the world, but as an illustrious alumnus of IIT Kharagpur, with numerous awards and achievements to my credit (including the Institute Silver Medal for being the topper at IIT Kharagpur, Star Award for outstanding performance at BMC Software, “VIT Shri” Awards at Vishwakarma Institute of Technology, Pune for being the best teacher) I certainly can compete with them and thus have a strong urge to contribute, especially in areas like governance and security which can have a tremendous impact on society.&lt;/p&gt;
+
+&lt;p&gt;I have done my BTech in CSE from IIT Kharagpur in 2004 after which I worked for six years in Oracle, Bangalore and then for about two years in BMC Software, Pune. The fruit of these eight years in industry came in the form of a calling - to work for a cause bigger than myself. Not wanting to leave Pune, I joined Vishwakarma Institute of Technology, Pune as an Assistant Professor in the Department of Computer Engineering. This was my first step towards returning back to academia. Vishwakarma Institute of Technology is an autonomous college affiliated with University of Pune and is among the premiere colleges in Maharashtra. Because of the need of the hour at that time, I had to pursue my MTech from the same college. People say I am a perfectionist. I agree. Whatever I do, I like to give myself completely to it. Coupled with God&amp;rsquo;s grace, this has turned out to be a great combination so far. Thus during my MTech also I secured first rank in the department as well as in the institute.&lt;/p&gt;
+
+&lt;p&gt;Now after four years of observing the academia closely, I find myself prepared and geared up for taking the next step, which is of pursuing PhD from IIT Bombay. Being a graduate from IIT Kharagpur, doing MTech from Pune University was a situational compromise for me, but I do not have any such constraints right now. Not only IIT Bombay is close to my home at Pune, being one of the best and most sought after institute in the country, it is my destination of choice and I want to leave no stone unturned to be given an opportunity here to prove my mettle.&lt;/p&gt;
+
+&lt;p&gt;My MTech work was about automatically recognizing user personality from Facebook status updates. I have been working in the area of Data Analytics for a couple of years now (have a couple of publications and have guided several major projects). My projects have included topics like “automated rating in web applications using collective intelligence”, “creating ACO and PSO based classification and clustering modules in Weka”, “group recommendation and community detection in Facebook”, “ask answer service on Facebook” and a few others. I have now developed a strong affinity for Data Analytics, especially its intersection with Machine Learning. Together they have a potential to change the way we live, for better. Working on real world problems which can touch the lives of people is what excites me and I look forward to working on such problems during my PhD. Given an opportunity, I am confident of making a significant contribution to the field, to IIT Bombay, to our nation, to our society and to the world at large.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Youth Empowerment</title>
+      <link>https://vishkaush.github.io/post/yes/</link>
+      <pubDate>Thu, 18 Feb 2016 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/yes/</guid>
+      <description>&lt;p&gt;On 16th February 2016 I was invited by the Principal of &lt;strong&gt;S. P. College, Pune&lt;/strong&gt;, Dr. Dilip Sheth to give a talk on &lt;strong&gt;Youth Empowerment&lt;/strong&gt; to the students who had gathered for a state level camp from 13th Feb to 19th Feb. Below is a letter of gratitude from them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;letter.jpg&#34; alt=&#34;letter&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mega Youth Festival - Drishti</title>
+      <link>https://vishkaush.github.io/post/drishti/</link>
+      <pubDate>Thu, 11 Feb 2016 17:44:23 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/drishti/</guid>
+      <description>&lt;p&gt;Mark your calendars for 20th March 2016! A mega youth festival &amp;ldquo;Drishti&amp;rdquo; is going to be organized in Pune which will have feast for eyes, ears, tongue and soul with music, drama, international artists and cultural extravaganza. It will be organized around the theme &amp;ldquo;Bharat leads the world&amp;rdquo;. Don&amp;rsquo;t miss! &lt;a href=&#34;https://www.facebook.com/Dyf-1691349364411177/&#34; target=&#34;_blank&#34;&gt;Here it is on Facebook.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Particle Swarm Optimization Based Approach for Finding Similar Users on Facebook.</title>
+      <link>https://vishkaush.github.io/publication/kabara-2016-particle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/kabara-2016-particle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automation framework for configuration management to reduce manual intervention</title>
+      <link>https://vishkaush.github.io/publication/karale-2016-automation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
+      <guid>https://vishkaush.github.io/publication/karale-2016-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are You Thinking?</title>
+      <link>https://vishkaush.github.io/post/are-you-thinking/</link>
+      <pubDate>Mon, 07 Dec 2015 17:40:41 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/are-you-thinking/</guid>
+      <description>&lt;p&gt;It is said, &lt;strong&gt;&amp;ldquo;culture is like blood&amp;rdquo;&lt;/strong&gt;. Blood is arguably one of the most important things in our body, yet we do not realize its presence/value unless we start losing it. Much the same way, culture is a vital element of the social fabric, but we do not realize its value unless we see the effects of its degradation. In this connection, several years back I had come across this post and would like to share it again here:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I hope this catches YOU the way it caught me!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In light of the many perversions and jokes we send along to one another for a laugh, this is a little different: This joke today is not intended to be a joke, it&amp;rsquo;s not intended to be funny, it&amp;rsquo;s intended to get you thinking.&lt;/p&gt;
+
+&lt;p&gt;A prominent American&amp;rsquo;s daughter was interviewed on the Early Show and Jane Clayson asked her &amp;ldquo;How could God let something like this happen?&amp;rdquo; (Regarding the attacks on September 11)&lt;/p&gt;
+
+&lt;p&gt;Anne Graham gave an extremely profound and insightful response.
+She said, &amp;ldquo;I believe God is deeply saddened by this, just as we are, but for years we&amp;rsquo;ve been telling God to get out of our schools, to get out of our government and to get out of our lives. And being the gentleman He is,I believe He has calmly backed out. How can we expect God to give us His blessing and His protection if we demand He leave us alone?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;In light of recent events&amp;hellip;terrorists attack, school shootings, etc, I think it started when Madeleine Murray O&amp;rsquo;Hare (she was murdered, her body found recently) complained she didn&amp;rsquo;t want prayer in our schools, and we said OK. Then someone said you better not read the Bible in school&amp;hellip;the Bible says thou shalt not kill, thou shalt not steal, and love your neighbor as yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Then Dr. Benjamin Spock said we shouldn&amp;rsquo;t spank our children when they misbehave because their little personalities would be warped and we might damage their self-esteem (Dr. Spock&amp;rsquo;s son committed suicide). We said an expert should know what he&amp;rsquo;s talking about.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Then someone said teachers and principals better not discipline our children when they misbehave. The school administrators said no faculty member in this school better touch a student when they misbehave because we don&amp;rsquo;t want any bad publicity, and we surely don&amp;rsquo;t want to be sued (there&amp;rsquo;s a big difference between disciplining, touching, beating, smacking, humiliating, kicking, etc.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Then someone said, let&amp;rsquo;s let our daughters have abortions if they want, and they won&amp;rsquo;t even have to tell their parents.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Then some wise school board member said, since boys will be boys and they&amp;rsquo;re going to do it anyway, let&amp;rsquo;s give our sons all the condoms they want so they can have all the fun they desire, and we won&amp;rsquo;t have to tell their parents they got them at school.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Then some of our top elected officials said it doesn&amp;rsquo;t matter what we do in private as long as we do our jobs. Agreeing with them, we said it doesn&amp;rsquo;t matter to me what anyone, including the President, does in private as long as I have a job and the economy is good.&lt;/p&gt;
+
+&lt;p&gt;Then someone said let&amp;rsquo;s print magazines with pictures of nude women and call it wholesome, down-to-earth appreciation for the beauty of the female body.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And then someone else took that appreciation a step further and published pictures of nude children and then further again by making them available on the Internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And we said OK, they&amp;rsquo;re entitled to free speech.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Then the entertainment industry said, let&amp;rsquo;s make TV shows and movies that promote profanity, violence, and illicit sex. Let&amp;rsquo;s record music that encourages rape, drugs, murder, suicide, and satanic themes. And we said it&amp;rsquo;s just entertainment, it has no adverse effect, nobody takes it seriously anyway, so go right ahead.&lt;/p&gt;
+
+&lt;p&gt;Now we&amp;rsquo;re asking ourselves why our children have no conscience, why they don&amp;rsquo;t know right from wrong, and why it doesn&amp;rsquo;t bother them to kill strangers, their classmates, and themselves.&lt;/p&gt;
+
+&lt;p&gt;Probably, if we think about it long and hard enough, we can figure it out!&lt;/p&gt;
+
+&lt;p&gt;It has a great deal to do with &lt;strong&gt;&amp;ldquo;WE REAP WHAT WE SOW.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Funny how simple it is for people to trash God and then wonder why the world&amp;rsquo;s going to hell. Funny how we believe what the newspapers say, but question what the Bible says.&lt;/p&gt;
+
+&lt;p&gt;Funny how you can send &amp;lsquo;jokes&amp;rsquo; through e-mail and they spread like wildfire, but when you start sending messages regarding the Lord, people think twice about sharing. Funny how lewd, crude, vulgar and obscene articles pass freely through cyberspace, but public discussion of God is suppressed in the school and workplace.&lt;/p&gt;
+
+&lt;p&gt;Are you laughing?&lt;/p&gt;
+
+&lt;p&gt;Funny how when you forward this message, you will not send it to many on your address list because you&amp;rsquo;re not sure what they believe, or what they will think of you for sending it.&lt;/p&gt;
+
+&lt;p&gt;Funny how we can be more worried about what other people think of us than what God thinks of us.&lt;/p&gt;
+
+&lt;p&gt;Pass it on if you think it has merit. If not then just discard it&amp;hellip; No one will know you did. But, if you discard this thought process, don&amp;rsquo;t sit back and complain about what bad shape the world is in!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you thinking?&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualization of a Turing Machine</title>
+      <link>https://vishkaush.github.io/post/turing-machine-visualization/</link>
+      <pubDate>Tue, 20 Oct 2015 17:37:11 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/turing-machine-visualization/</guid>
+      <description>&lt;p&gt;Came across this brilliant realization of a Turing Machine - watch the video below. If you are scratching your heads, &lt;em&gt;Turing Machine&lt;/em&gt; is a classic model embodying the very nature of computation. According to wikipedia, &amp;ldquo;A Turing machine is a hypothetical device that manipulates symbols on a strip of tape according to a table of rules. Despite its simplicity, a Turing machine can be adapted to simulate the logic of any computer algorithm, and is particularly useful in explaining the functions of a CPU inside a computer. The &amp;ldquo;Turing&amp;rdquo; machine was invented in 1936 by Alan Turing[1] who called it an &amp;ldquo;a-machine&amp;rdquo; (automatic machine). The Turing machine is not intended as practical computing technology, but rather as a hypothetical device representing a computing machine. Turing machines help computer scientists understand the limits of mechanical computation.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;And now, what you have been waiting for, the video:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/E3keLeMwfHY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who should get the Turing Award? You decide</title>
+      <link>https://vishkaush.github.io/post/turing-award/</link>
+      <pubDate>Mon, 14 Sep 2015 17:31:37 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/turing-award/</guid>
+      <description>&lt;p&gt;Here is another clue of amazing design in nature - and so close to us! Read on.
+&lt;a href=&#34;http://www.lancaster.ac.uk/news/articles/2014/unbreakable-security-codes-inspired-by-nature-/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Unbreakable&amp;rdquo; security codes inspired by nature&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industry Expectations From an Engineer</title>
+      <link>https://vishkaush.github.io/post/industry-expectations-engineer/</link>
+      <pubDate>Wed, 05 Aug 2015 17:26:37 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/industry-expectations-engineer/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Featured Article: “Industry Expectations from an Engineer” by Rajagopalan P, Infosys, Mysore.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The “industry-academia gap” is a widely discussed topic. This gap can be minimized by understanding what the industry expects from a fresh engineer. This article is an attempt to list out the top 8 expectations industries have from an engineer.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Learnability&lt;/strong&gt;: The fluid industry trends in today’s world force engineers to be life-long learners! Learnability is the ability to generalize a specific knowledge and apply in various contexts. Industries expect engineers to have the zest and zeal along with the ability to learn new tools and techniques.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ability to work in teams&lt;/strong&gt;: Individualism is out and collaboration is in. Considering the options we have in today’s global village, it is impossible for one to master all the skills that are needed for an industry. One should have the ability to identify one’s core skills, team up with members with complementary skills, collaborate and contribute.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Communication Skills&lt;/strong&gt;: An organization expects all the employees to communicate effectively. Engineers should have good verbal and written communication skills. This is a skill that is absolutely necessary when working in teams where inappropriate communication could be disastrous. Most of the industries in India have adopted English as the language of communication considering the diverse nature of their clients and workforce.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Positive Attitude&lt;/strong&gt;: The importance of positive attitude for a successful career cannot be overemphasized. When something goes wrong, one can either blame one’s circumstances or look at ways of making the situation better. Industry wants the latter category who considers such a situation as an opportunity to learn.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: Many organizations, especially those in the software industry, give a lot of flexibility to the employees. At the same time those industries expect the employees also to be flexible in terms of working location, nature of projects or in some cases, working hours.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Adaptability&lt;/strong&gt;: An engineer should have the ability to adapt to any situation. 100% of the tasks assigned to an engineer may not be in alignment with his or her interest. If 70% of the tasks are interesting, an engineer should be able to adapt to the rest 30%. If one could not find interest even in 70% of the tasks allocated, chances are that one has chosen a wrong career!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Self-Motivation&lt;/strong&gt;: Even though a fresh engineer is at the beginning of the career, the industry expects the engineer to be clear about his or her short-term and long-term career plans. One can make a remarkable difference by chalking out one’s career plans. Having a clear idea of what one wants keeps one motivated.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ownership&lt;/strong&gt;: An engineer should own a task that is assigned to him or her. An engineer should leave his or her mark in every product delivered by him or her. The sense of ownership results in completion of tasks with maximum quality.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Design: God&#39;s Fingerprint</title>
+      <link>https://vishkaush.github.io/post/intelligent-design/</link>
+      <pubDate>Wed, 05 Aug 2015 17:13:12 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/intelligent-design/</guid>
+      <description>&lt;p&gt;Remember the famous Fibonacci Sequence you heard of back in school? Watch this video and be amazed at the intelligence of God behind this creation:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/7Uo4Oond1e8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminars for students in RDU Jabalpur</title>
+      <link>https://vishkaush.github.io/post/jabalpur/</link>
+      <pubDate>Mon, 16 Mar 2015 16:03:01 +0530</pubDate>
+      <guid>https://vishkaush.github.io/post/jabalpur/</guid>
+      <description>&lt;p&gt;I was invited by Prof P. V. Jain of Department of Mathematics and Computer Science of Rani Durgavati University, Jabalpur. Over 2 days I gave two seminars on
+- &lt;strong&gt;E.N.E.R.G.Y - Your Sutra for Positive Thinking&lt;/strong&gt;
+- &lt;strong&gt;Art of Concentration in the age of Distractions&lt;/strong&gt;
+The seminars were very well received by the students and the faculty alike. This event was also covered by a local daily &amp;ldquo;&lt;strong&gt;Jabalpur Patrika&lt;/strong&gt;&amp;rdquo;. I was also given a &lt;strong&gt;letter of appreciation&lt;/strong&gt; for the same from the university.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;jabalpur-patrika.PNG&#34; alt=&#34;newspaper&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;letter.jpg&#34; alt=&#34;letter&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;jabalpur1.jpg&#34; alt=&#34;pic1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;jabalpur2.jpg&#34; alt=&#34;pic2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;conc.png&#34; alt=&#34;conc&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face Recognition</title>
+      <link>https://vishkaush.github.io/project/face-rec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/project/face-rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faculty development programme by iGate</title>
+      <link>https://vishkaush.github.io/post/igate-fdp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishkaush.github.io/post/igate-fdp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;www.igate.com&#34; target=&#34;_blank&#34;&gt;iGate&lt;/a&gt; organized a faculty development programme for faculty members across several colleges. I and a few other colleagues of mine represented VIT, Pune. You can see me sitting right at the end of the first row.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
